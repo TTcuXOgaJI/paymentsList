@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efa23e3f-41ff-4281-a451-426cd63854dc" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/6.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/1.jpg" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/2.jpg" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/3.jpg" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/1.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/2.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/3.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/creative.css" afterPath="$PROJECT_DIR$/css/creative.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="paymentsList.iws" />
@@ -49,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="42" column="33" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="33" />
+            <state relative-caret-position="489">
+              <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -85,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="creative.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="creative.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/creative.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="438">
@@ -109,8 +95,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/creative.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -693,12 +679,20 @@
       <option name="presentableId" value="Default" />
       <updated>1466328683921</updated>
       <workItem from="1466328685621" duration="26000" />
-      <workItem from="1466328777128" duration="7237000" />
+      <workItem from="1466328777128" duration="7534000" />
     </task>
+    <task id="LOCAL-00001" summary="about configured.">
+      <created>1466336970556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1466336970556</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7263000" />
+    <option name="totallyTimeSpent" value="7560000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -742,6 +736,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="about configured." />
+    <option name="LAST_COMMIT_MESSAGE" value="about configured." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -783,18 +781,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="42" column="33" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/creative.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="438">
           <caret line="173" column="30" selection-start-line="173" selection-start-column="30" selection-end-line="173" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
           <folding />
         </state>
       </provider>
