@@ -1,1 +1,8 @@
 node_modules
+.idea/compiler.xml
+.idea/copyright/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/paymentsList.iml
+.idea/vcs.xml
